@@ -17,3 +17,11 @@ function revolucao(){
 function impacto(){
     window.location.href = "impactos.html"
 }
+
+function segunda(){
+    window.location.href = "revolucoes.html#segunda"
+}
+
+function terceira (){
+    window.location.href = "revolucoes.html#terceira"
+}
